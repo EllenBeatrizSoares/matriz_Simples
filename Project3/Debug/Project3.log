@@ -1,0 +1,41 @@
+﻿  Origem.cpp
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(20,11): warning C4477: 'scanf_s': a cadeia de formato '%i' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(20,11): message : considere usar '%hhi' na cadeia de formato
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(28,12): warning C4477: 'scanf_s': a cadeia de formato '%i' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(28,12): message : considere usar '%hhi' na cadeia de formato
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(30,12): warning C4477: 'scanf_s': a cadeia de formato '%i' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(30,12): message : considere usar '%hhi' na cadeia de formato
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(35,16): error C2059: erro de sintaxe: 'for'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(35,16): warning C4552: '<': o resultado da expressão não é usado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(35,26): error C2059: erro de sintaxe: ')'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(37,3): error C2059: erro de sintaxe: 'for'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(37,17): error C2143: erro de sintaxe: ')' ausente antes de ';'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(37,17): warning C4552: '<': o resultado da expressão não é usado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(37,27): error C2059: erro de sintaxe: ')'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(39,44): error C2065: 'i': identificador não declarado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(39,47): error C2065: 'j': identificador não declarado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(39,49): error C2059: erro de sintaxe: ';'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(40,26): error C2065: 'i': identificador não declarado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(40,29): error C2065: 'j': identificador não declarado
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(40,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(40,12): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(40,12): message : o argumento variadic 1 ausente é requerido pela cadeia de formato '%i'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(42,2): error C2059: erro de sintaxe: '}'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(42,2): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,2): error C2059: erro de sintaxe: 'for'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,16): error C2143: erro de sintaxe: ')' ausente antes de ';'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,16): error C2143: erro de sintaxe: ';' ausente antes de '<'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,16): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,24): error C2143: erro de sintaxe: ';' ausente antes de '++'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,24): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,23): error C2086: 'int M': redefinição
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44): message : consulte a declaração de 'M'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(44,26): error C2059: erro de sintaxe: ')'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(45,2): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(45,2): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(62,16): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(62,2): error C2365: 'system': redefinição; definição anterior era 'função'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1218): message : consulte a declaração de 'system'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(63,2): error C2059: erro de sintaxe: 'return'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(64,1): error C2059: erro de sintaxe: '}'
+C:\Users\Ellen Beatriz Soares\source\repos\Project3\Project3\Origem.cpp(64,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
